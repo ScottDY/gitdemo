@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("make runable");
 		System.out.println("back to master change");
 		System.out.println("add hot_fix");
+		System.out.println("add hot_fix2");
 
 
 	}
