@@ -8,6 +8,8 @@ public class Main {
 		System.out.println("make runable");
 		System.out.println("add hot_fix");
 		System.out.println("add hot_fix2");
+		System.out.println("add hot_fix only");
+		
 
 	}
 
