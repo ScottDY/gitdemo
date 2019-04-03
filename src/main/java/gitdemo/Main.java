@@ -15,6 +15,7 @@ public class Main {
 		System.out.println(text1 + " is a numeric? " + result1);
 		System.out.println(text2 + " is a numeric? " + result2);
 
+
 	}
 
 }
